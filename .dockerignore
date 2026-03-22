@@ -1,0 +1,17 @@
+node_modules
+dist
+.turbo
+.git
+.github
+.wrangler
+coverage
+*.junit.xml
+*.lcov
+.env
+.env.*
+.dev.vars
+docs
+packages/mcp-cloudflare
+packages/mcp-server-evals
+packages/mcp-test-client
+packages/smoke-tests
